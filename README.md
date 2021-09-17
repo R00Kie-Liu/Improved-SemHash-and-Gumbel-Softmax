@@ -1,4 +1,4 @@
 # Improved SemHash & Gumbel Softmax
-Implementation of two methods to generate discreate values in CNN:
-## Improved SemHash (Sementic Hashing)
-## Gumbel Softmax trick
+Two discretization methods introduced in 'DISCRETE AUTOENCODERS FOR SEQUENCE MODELS' (https://arxiv.org/pdf/1801.09797.pdf).
+Inplementation is based on Pytorch.
+
